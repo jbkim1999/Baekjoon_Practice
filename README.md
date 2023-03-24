@@ -1,5 +1,6 @@
-# Baekjoon_Practice (Only documenting ones that are intermediate~above)
+# Baekjoon_Practice 
 
+### Only documenting ones that are intermediate~above
 ## Simulation
 - [X] zmija [Submission](https://www.acmicpc.net/status?from_mine=1&problem_id=3190&user_id=jbkim1999)
 
